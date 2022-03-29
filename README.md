@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rugualter
-- 👀 Check me out at https://rudigualter.pt/
+- 👀 Check me out at https://rudigualter.com/
 - 🌱 💞️ 
-- 📫 How to reach me? mail@rudigualter.pt
+- 📫 How to reach me? mail@rudigualter.com
 
 <!---
 rugualter/rugualter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
